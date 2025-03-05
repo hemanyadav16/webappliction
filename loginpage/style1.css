@@ -43,19 +43,19 @@
     
 }
 .button ul{
-   
-    
     margin: 0px;
+   
 }
 .button li{
-    list-style: none;
-    font-style: none;
+    
     display: inline-block;
     background: transparent;
     background-color: transparent;
     
 }
+
 .button{
     background: none;
+    
 }
 
